@@ -4,7 +4,7 @@
 
 <div align="center"> 
 <h3 style="color: #282d33;">
-  밝은 에너지로 팀의 협업 문화를 만들어가는 개발자, 김사라입니다 😄
+  안녕하세요! 백엔드 개발자 김사라입니다 😄
 </h3><br>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
@@ -32,7 +32,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 Activities </h2>
   <p style="font-weight: 500; font-size: 16px; color: #4b4f56;">
       하눌신폭 - 가천대 게임개발 동아리 · 23기 회장<br/>
-    UMC IT 연합 동아리 · 8기 스프링부트
+    UMC IT 연합 동아리 · 8기 스프링부트 수료
   </p>
 </div><br>
 
