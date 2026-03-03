@@ -4,7 +4,7 @@
 
 <div align="center"> 
 <h3 style="color: #282d33;">
-  안녕하세요! 백엔드 개발자 김사라입니다 😄
+  안녕하세요! 신입입 백엔드 개발자 김사라입니다 😄
 </h3><br>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
@@ -24,6 +24,13 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2>
   <p style="font-weight: 500; font-size: 16px; color: #4b4f56;">
     가천대학교 컴퓨터공학과 (컴퓨터공학전공) 2023.03 ~ (재학)
+  </p>
+</div><br>
+
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Awards </h2> 
+  <p>
+  <a href="https://github.com/SoomTeum/backend">2025 관광데이터 활용 공모전 '장려상</a>
   </p>
 </div><br>
 
@@ -62,9 +69,4 @@
 </div> <br>
 
 
-<div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimssirr&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-  </p>
-</div>
+
