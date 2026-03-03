@@ -4,7 +4,7 @@
 
 <div align="center"> 
 <h3 style="color: #282d33;">
-  안녕하세요! 신입입 백엔드 개발자 김사라입니다 😄
+  안녕하세요! 신입 백엔드 개발자 김사라입니다 😄
 </h3><br>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
